@@ -5,7 +5,7 @@ public class Talking {
 		 System.out.println("Welcome to my file.");
 		 System.out.println("My name is Arleia Hebberd.");
 		 System.out.println("This is for my BIT504 AS2.");
-		 System.out.println("Java programming is interesting."); // Comments about myself
+		 System.out.println("Java programming is challenging to learn but interesting once everything comes together"); // Comments about myself
 		 System.out.println("This is my final task in the project.");
 	       
 	}
